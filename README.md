@@ -1,73 +1,62 @@
-# Projet Power BI -- Assurance Voyage
+# Power BI Project – Travel Insurance
 
-## Rendu
+## Deliverables
 
-Voir le fichier Power BI source dans le **dossier powerbi** et les captures
-d'écran du dashboard dans **/docs/screenshots/**
+See the Power BI source file in the **powerbi** folder and screenshots of the dashboard in **/docs/screenshots/**
 
-------------------------------------------------------------------------
+---
 
-## Contexte
+## Context
 
-Ce projet a été mené pour analyser les performances des produits
-d'assurance voyage. L'objectif est de comprendre **quels produits
-fonctionnent le mieux**, quels sont les **clients les plus intéressés**
-et quels **canaux de distribution** sont les plus efficaces.
+This project was carried out to analyze the performance of travel insurance products. The goal is to understand **which products perform best**, which **customers are most interested**, and which **distribution channels** are most effective.
 
-------------------------------------------------------------------------
+---
 
-## Objectifs
+## Objectives
 
--   Identifier le **Top 10 des produits les plus vendus**.\
--   Mettre en avant un **podium** avec les 3 meilleurs produits.\
--   Analyser les **ventes et commissions** par agence, canal et
-    destination.\
--   Étudier le profil des assurés (âge, genre).\
--   Aider à la **prise de décision stratégique** pour optimiser les
-    offres et les ventes.
+* Identify the **Top 10 best-selling products**.
+* Highlight a **podium** with the 3 top products.
+* Analyze **sales and commissions** by agency, channel, and destination.
+* Study the profile of insured customers (age, gender).
+* Support **strategic decision-making** to optimize offers and sales.
 
-------------------------------------------------------------------------
+---
 
-## Données étudiées
+## Data Studied
 
-Les données incluent :\
-- Les ventes (`Net.Sales`) et commissions (`Commission`).\
-- Le produit d'assurance (`Product.Name`).\
-- L'agence et le canal de distribution.\
-- Les destinations et la durée des voyages.\
-- Le profil client : âge et genre.
+The dataset includes:
 
-------------------------------------------------------------------------
+* Sales (`Net.Sales`) and commissions (`Commission`).
+* Insurance product (`Product.Name`).
+* Agency and distribution channel.
+* Travel destinations and duration.
+* Customer profile: age and gender.
 
-## Résultats
+---
 
--   Un **Top 10 clair des produits les plus performants**.\
--   Un **podium visuel (1er, 2ème, 3ème)** pour mettre en avant les
-    leaders.\
--   Analyse des **clients les plus intéressés** par âge et genre.\
--   Identification des **destinations et canaux de distribution** les
-    plus porteurs.
+## Results
 
-------------------------------------------------------------------------
+* A clear **Top 10 of the best-performing products**.
+* A **visual podium (1st, 2nd, 3rd)** to highlight the leaders.
+* Analysis of the **most interested customers** by age and gender.
+* Identification of the **most lucrative destinations and distribution channels**.
+
+---
 
 ## Applications
 
--   Tester un **nouveau produit en phase pilote** avant un lancement
-    complet.\
--   Optimiser les **stratégies marketing** (produit, cible, canal).\
--   Mieux comprendre les **profils de clients** pour adapter les
-    offres.\
--   Aider à la **gestion des risques et des réclamations**.
+* Test a **new product during a pilot phase** before a full launch.
+* Optimize **marketing strategies** (product, target audience, channel).
+* Better understand **customer profiles** to adapt offers.
+* Support **risk and claims management**.
 
-------------------------------------------------------------------------
+---
 
-## Outils utilisés
+## Tools Used
 
--   **Power BI** : visualisations interactives.\
--   **Power Query & DAX** : nettoyage et calculs.
+* **Power BI**: interactive visualizations.
+* **Power Query & DAX**: data cleaning and calculations.
 
-------------------------------------------------------------------------
+---
 
-En résumé : ce projet transforme les données brutes en **indicateurs
-clairs** pour savoir **quoi vendre, à qui, et comment**, afin de
-maximiser la performance des produits d'assurance voyage.
+In summary, this project transforms raw data into **clear indicators** to know **what to sell, to whom, and how**, in order to maximize the performance of travel insurance products.
