@@ -1,5 +1,12 @@
 # Projet Power BI -- Assurance Voyage
 
+## Rendu
+
+Voir le fichier Power BI source dans le **dossier powerbi** et les captures
+d'écran du dashboard dans /docs/screenshots/
+
+------------------------------------------------------------------------
+
 ## Contexte
 
 Ce projet a été mené pour analyser les performances des produits
