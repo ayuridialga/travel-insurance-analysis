@@ -1,0 +1,25 @@
+# Fichiers temporaires Power BI
+*.tmp
+*.temp
+Cache/
+CachePersistent/
+*.record
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+*.etl
+
+# Backup files
+*.backup
+*.bak
+
+# Fichiers sensibles (COMMENTÉS - votre projet est open source)
+# *.pdf
+# *.docx
+# *.pptx
+# *.xlsx
